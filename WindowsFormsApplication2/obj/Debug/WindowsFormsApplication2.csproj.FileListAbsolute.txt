@@ -1,0 +1,44 @@
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\csie-e517\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\CSIE-E517\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe.config
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.pdb
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.exe
+E:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe.config
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe.config
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.exe
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Honda快選程式.pdb
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.exe
+D:\_OLD2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Honda快選程式.pdb
